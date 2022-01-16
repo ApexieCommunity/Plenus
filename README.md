@@ -1,5 +1,7 @@
 ---
 description: This page explains what Plenus is and what it does
+cover: .gitbook/assets/Plenus Banner.png
+coverY: 0
 ---
 
 # What is Plenus
@@ -13,4 +15,4 @@ Currently, this Discord bot has these features:\
 \- **Giveaway commands**, helpful to start a giveaway and manage it easily\
 \- **Activity commands**, such as YouTube Together and Doodle Crew to entertain yourself and your friends in a voice chat\
 \- **Administration commands**, which help with things like logging, words blacklist and so much more...\
-\- A **Dashboard**, still work in progress
+\- A [**Dashboard**](https://plenusbot.xyz), still work in progress
