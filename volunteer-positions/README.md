@@ -10,5 +10,5 @@ Plenus is an open source project and because of this, everyone can contribute to
 
 There're many staff positions, such as Developer, Moderator and Beta Tester (the easier one to get). Of course, you are getting some advantages if you're going to apply for a volunteer staff position:
 
-* Get an email address with the official **plenusbot.xyz** domain that's going to be used for business purposes (doesn't apply for the Beta Testers)
+* ~~Get an email address with the official **plenusbot.xyz** domain that's going to be used for business purposes (doesn't apply for the Beta Testers)~~
 * Get known for being a staff member of **Plenus Team**
